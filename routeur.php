@@ -5,7 +5,7 @@
 		<title>Routeur <?=version_git?></title>
 	</head>
 	<body>
-		My Super Routeur
+		My Super Routeur in Git
 		<?php 
 			echo "Routeur Test".$version_git;
 		?>
