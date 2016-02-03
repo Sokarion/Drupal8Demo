@@ -1,3 +1,4 @@
-# git-phpstorm
+# Drupal 8 Demo
 
-Generate Readme
+This is a project to test the new Drupal 8.
+Create Modules, Services, Testing New Templating System with twig. 
